@@ -4,14 +4,14 @@
 
 ######Entries:
 
-1. [kbd](../entries/entry-1.md)
-2. [margin-bottom](../entries/entry-3.md)
-3. [window.location](../entries/entry-5.md)
+1. [kbd](Watts-Wilson/entries/entry-1.md)
+2. [margin-bottom](Watts-Wilson/entries/entry-3.md)
+3. [window.location](Watts-Wilson/entries/entry-5.md)
 
 ######Author: [Blake Wilson](https://github.com/BlakeSandes)
 
 ######Entries
 
-1. [iframe](../entries/entry-2.md)
-2. [text-shadow](../entries/entry-4.md)
-3. [window.pageYOffset](../entries/entry-6.md)
+1. [iframe](Watts-Wilson/entries/entry-2.md)
+2. [text-shadow](Watts-Wilson/entries/entry-4.md)
+3. [window.pageYOffset](Watts-Wilson/entries/entry-6.md)
