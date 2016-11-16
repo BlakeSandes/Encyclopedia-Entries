@@ -2,4 +2,4 @@
  
  Below are the links for Encylopedia entries I am collaborating on.
  
- [Andre Watts & Blake Wilson](Encylopedia-Entries/Andre-Watts)
+ [Andre Watts & Blake Wilson](Encylopedia-Entries/Watts-Wilson)
