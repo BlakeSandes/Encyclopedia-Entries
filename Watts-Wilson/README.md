@@ -4,7 +4,7 @@
 
 ######Entries:
 
-1. [kbd](Encyclopedia-Entries/Watts-Wilson/entries/entry-1.md)
+1. [kbd](entries/entry-1.md)
 2. [margin-bottom](Encyclopedia-Entries/Watts-Wilson/entries/entry-3.md)
 3. [window.location](Encyclopedia-Entries/Watts-Wilson/entries/entry-5.md)
 
