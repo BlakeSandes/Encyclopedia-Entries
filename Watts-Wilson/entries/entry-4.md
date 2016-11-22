@@ -1,4 +1,3 @@
-
 #text-shadow
 
 *CSS property for creating shadowing affect on text*.
