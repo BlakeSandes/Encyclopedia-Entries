@@ -1,4 +1,4 @@
-#window.pageYOffset
+#window.pageYOffset (Work in Progress)
 
 The `window.pageYOffset` returns the number in pixels that the document has already scrolled vertically in relation to the top of the document window.
 
